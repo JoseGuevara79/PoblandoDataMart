@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo poblar una base de datos con información de v
 1. Clona este repositorio en tu servidor web local.
 
 ```shell
-git clone https://github.com/tu-usuario/poblacion-basedatos-limpioBE.git
+git clone https://github.com/JoseGuevara79/PoblandoDataMart
 ```
 
 2. Asegúrate de tener un servidor web y un sistema de gestión de base de datos configurados y en ejecución.
